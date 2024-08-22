@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.e5e634a4.css",
-    "main.js": "/static/js/main.9816aea9.js",
-    "static/js/453.d044147c.chunk.js": "/static/js/453.d044147c.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.e5e634a4.css.map": "/static/css/main.e5e634a4.css.map",
-    "main.9816aea9.js.map": "/static/js/main.9816aea9.js.map",
-    "453.d044147c.chunk.js.map": "/static/js/453.d044147c.chunk.js.map"
+    "main.css": "/sathyodhayam/static/css/main.e5e634a4.css",
+    "main.js": "/sathyodhayam/static/js/main.867816ba.js",
+    "static/js/453.d044147c.chunk.js": "/sathyodhayam/static/js/453.d044147c.chunk.js",
+    "static/media/logo.svg": "/sathyodhayam/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sathyodhayam/index.html",
+    "main.e5e634a4.css.map": "/sathyodhayam/static/css/main.e5e634a4.css.map",
+    "main.867816ba.js.map": "/sathyodhayam/static/js/main.867816ba.js.map",
+    "453.d044147c.chunk.js.map": "/sathyodhayam/static/js/453.d044147c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5e634a4.css",
-    "static/js/main.9816aea9.js"
+    "static/js/main.867816ba.js"
   ]
 }
